@@ -1,0 +1,18 @@
+# ==============================
+# Content Monetization Modeler
+# Required Python Dependencies
+# ==============================
+
+# Data Processing
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Web Application
+streamlit
